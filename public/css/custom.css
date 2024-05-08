@@ -1,0 +1,11 @@
+#godong {
+    position: relative;
+    width: auto;
+    height: 40px;
+    margin: 10px 45px;
+}
+.nav .nav-link{
+    font-size: 14px;
+    padding: 5px 20px;
+    height: 35px;
+}
